@@ -1,0 +1,9 @@
+tensorflow>=2.10.0
+pandas
+numpy==1.23.5
+scikit-learn
+matplotlib
+seaborn
+pyarrow
+keras-preprocessing>=1.1.1
+protobuf==3.19.6

@@ -1,0 +1,17 @@
+name: ids-cnn-env
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.10
+- tensorflow=2.10
+- numpy=1.23.5
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+- pyarrow
+- keras-preprocessing>=1.1.1
+- protobuf=3.19.6
+- pip
+- pip: []
