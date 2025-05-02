@@ -1,0 +1,4 @@
+datasets:
+  default:
+    train_dataset: "./data/final/train.parquet"
+    test_dataset: "./data/final/test.parquet"
